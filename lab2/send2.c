@@ -41,8 +41,14 @@ msg creareMesaj(char buffer[], int lungime)
   return mesaj;
 }
 
-void trimiteFisier(int fisierDeTransmis)
-{
+int main(int argc,char** argv){
+  init(HOST,PORT);
+  
+  //deschidere fisier
+  int fisierDeTransmis;
+  fisierDeTransmis = open("send.txt", O_RDONLY);
+
+  
   int fileLength = getLungimeFisier(fisierDeTransmis);
   int numarDePachete = fileLength/MAX_LEN + 1;
   printf("------se vor transmite %d pachete\n", numarDePachete);
@@ -57,7 +63,7 @@ void trimiteFisier(int fisierDeTransmis)
   if (recv_message(&primulAKC) < 0)
   {
     perror("nu am primit bine primul akc");
-    
+    return -1;
   }
   else
   {
@@ -84,7 +90,7 @@ void trimiteFisier(int fisierDeTransmis)
     msg AKC;
     if (recv_message(&AKC)<0){
       perror("[send]nu am primit mesajul!");
-      
+      return -1;
     }
     else
     {
@@ -93,49 +99,11 @@ void trimiteFisier(int fisierDeTransmis)
       if(atoi(AKC.payload) != counter)
       {
         perror("[send] am primit un AKC prost\n");
-        
+        return -1;
       }
     }
   }
   
   close(fisierDeTransmis);
-  
-}
-
-int main(int argc,char** argv){
-  init(HOST,PORT);
-
-  int cateFisiereSunt = 3;
-  char fisiere[100][100];
-
-  strcpy(fisiere[0], "send.txt");
-  strcpy(fisiere[1], "send2.txt");
-  strcpy(fisiere[2], "send3.txt");
-  
-  msg preambul;
-  sprintf(preambul.payload, "%d", cateFisiereSunt);
-  preambul.len = strlen(preambul.payload);
-  printf("[send]stabilesc conexiunea initiala si trimit numarul de fisiere...astept akc initial\n");
-  send_message(&preambul);
-
-  msg AKCinitial;
-  recv_message(&AKCinitial);
-  printf("[send]am primit AKC initial incep sa trimit fisere\n");
-
-  for (int counter = 0; counter < cateFisiereSunt; counter++)
-  {
-    msg numeFisier;
-    strcpy(numeFisier.payload, fisiere[counter]);
-    numeFisier.len = strlen(numeFisier.payload);
-    send_message(&numeFisier);
-    printf("[send]trimit mesaj cu numele fisierului astept AKC\n");
-    msg AKC;
-    recv_message(&AKC);
-    printf("[send]am primit AKC trimit fisierul\n");
-
-    int fisier = open(numeFisier.payload, O_RDONLY);
-    trimiteFisier(fisier);
-  }
-  
   return 0;
 }

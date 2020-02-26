@@ -8,14 +8,14 @@
 #define HOST "127.0.0.1"
 #define PORT 10001
 
-void primesteMesaj(char nume[])
-{
-  strcat(nume, "Copie");
+
+int main(int argc,char** argv){
   msg primitInitial;
   int numarDePachete;
+  init(HOST,PORT);
   if (recv_message(&primitInitial)<0){
     perror("[recv]nu am primit bine mesajul initial");
-    
+    return -1;
   }
   else
   {
@@ -30,14 +30,14 @@ void primesteMesaj(char nume[])
   }
 
   int counter = 0;
-  int fisierPrimit = open (nume, O_WRONLY | O_CREAT, 0644);
+  int fisierPrimit = open ("primit.txt", O_WRONLY | O_CREAT, 0644);
   while (counter < numarDePachete)
   {
     counter++;
     msg primit;
     if (recv_message(&primit)<0){
       perror("nu am primit bine mesajul initial");
-      
+      return -1;
     }
     else
     {
@@ -53,47 +53,5 @@ void primesteMesaj(char nume[])
     
   }
   close(fisierPrimit);
-}
-
-void trimiteAKC(int counter)
-{
-  msg AKC;
-  sprintf(AKC.payload, "%d", counter);
-  AKC.len = strlen(AKC.payload);
-  send_message(&AKC);
-  printf("[recv]am trimis AKC\n");
-}
-
-int main(int argc,char** argv){
-  init(HOST,PORT);
-  
-  int numarFisiere = 0;
-  msg preambool;
-  if(recv_message(&preambool)<0)
-  {
-    perror("nu am primit bine\n");
-    return -1;
-  }
-  
-  numarFisiere = atoi(preambool.payload);
-  printf("[recv]ma pregatesc sa primesc %d fisiere si trimit akc initial\n", atoi(preambool.payload));
-
-  msg AKCintial;
-  strcpy(AKCintial.payload, preambool.payload);
-  AKCintial.len = preambool.len;
-  send_message(&AKCintial);
-  printf("[recv]am trimis AKC initial\n");
-
-  for (int count = 0; count < numarFisiere; count++)
-  {
-    char nume[100];
-    msg numeFisier;
-    recv_message(&numeFisier);
-    strcpy(nume, numeFisier.payload);
-    printf("[recv]am primit numele fisierului trimit AKC\n");
-    trimiteAKC(count);
-    primesteMesaj(nume);
-  }
-  
   return 0;
 }
