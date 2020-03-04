@@ -1,0 +1,313 @@
+[RECEIVER] Starting.
+[RECIEVER] primit mesajul cu numarul 1
+[RECIEVER] se trimite AKC cu numarul 1
+[RECIEVER] primit mesajul cu numarul 2
+[RECIEVER] se trimite AKC cu numarul 2
+[RECIEVER] primit mesajul cu numarul 3
+[RECIEVER] se trimite AKC cu numarul 3
+[RECIEVER] primit mesajul cu numarul 4
+[RECIEVER] se trimite AKC cu numarul 4
+[RECIEVER] primit mesajul cu numarul 5
+[RECIEVER] se trimite AKC cu numarul 5
+[RECIEVER] primit mesajul cu numarul 6
+[RECIEVER] se trimite AKC cu numarul 6
+[RECIEVER] primit mesajul cu numarul 7
+[RECIEVER] se trimite AKC cu numarul 7
+[RECIEVER] primit mesajul cu numarul 8
+[RECIEVER] se trimite AKC cu numarul 8
+[RECIEVER] primit mesajul cu numarul 9
+[RECIEVER] se trimite AKC cu numarul 9
+[RECIEVER] primit mesajul cu numarul 10
+[RECIEVER] se trimite AKC cu numarul 10
+[RECIEVER] primit mesajul cu numarul 11
+[RECIEVER] se trimite AKC cu numarul 11
+[RECIEVER] primit mesajul cu numarul 12
+[RECIEVER] se trimite AKC cu numarul 12
+[RECIEVER] primit mesajul cu numarul 13
+[RECIEVER] se trimite AKC cu numarul 13
+[RECIEVER] primit mesajul cu numarul 14
+[RECIEVER] se trimite AKC cu numarul 14
+[RECIEVER] primit mesajul cu numarul 15
+[RECIEVER] se trimite AKC cu numarul 15
+[RECIEVER] primit mesajul cu numarul 16
+[RECIEVER] se trimite AKC cu numarul 16
+[RECIEVER] primit mesajul cu numarul 17
+[RECIEVER] se trimite AKC cu numarul 17
+[RECIEVER] primit mesajul cu numarul 18
+[RECIEVER] se trimite AKC cu numarul 18
+[RECIEVER] primit mesajul cu numarul 19
+[RECIEVER] se trimite AKC cu numarul 19
+[RECIEVER] primit mesajul cu numarul 20
+[RECIEVER] se trimite AKC cu numarul 20
+[RECIEVER] primit mesajul cu numarul 21
+[RECIEVER] se trimite AKC cu numarul 21
+[RECIEVER] primit mesajul cu numarul 22
+[RECIEVER] se trimite AKC cu numarul 22
+[RECIEVER] primit mesajul cu numarul 23
+[RECIEVER] se trimite AKC cu numarul 23
+[RECIEVER] primit mesajul cu numarul 24
+[RECIEVER] se trimite AKC cu numarul 24
+[RECIEVER] primit mesajul cu numarul 25
+[RECIEVER] se trimite AKC cu numarul 25
+[RECIEVER] primit mesajul cu numarul 26
+[RECIEVER] se trimite AKC cu numarul 26
+[RECIEVER] primit mesajul cu numarul 27
+[RECIEVER] se trimite AKC cu numarul 27
+[RECIEVER] primit mesajul cu numarul 28
+[RECIEVER] se trimite AKC cu numarul 28
+[RECIEVER] primit mesajul cu numarul 29
+[RECIEVER] se trimite AKC cu numarul 29
+[RECIEVER] primit mesajul cu numarul 30
+[RECIEVER] se trimite AKC cu numarul 30
+[RECIEVER] primit mesajul cu numarul 31
+[RECIEVER] se trimite AKC cu numarul 31
+[RECIEVER] primit mesajul cu numarul 32
+[RECIEVER] se trimite AKC cu numarul 32
+[RECIEVER] primit mesajul cu numarul 33
+[RECIEVER] se trimite AKC cu numarul 33
+[RECIEVER] primit mesajul cu numarul 34
+[RECIEVER] se trimite AKC cu numarul 34
+[RECIEVER] primit mesajul cu numarul 35
+[RECIEVER] se trimite AKC cu numarul 35
+[RECIEVER] primit mesajul cu numarul 36
+[RECIEVER] se trimite AKC cu numarul 36
+[RECIEVER] primit mesajul cu numarul 37
+[RECIEVER] se trimite AKC cu numarul 37
+[RECIEVER] primit mesajul cu numarul 38
+[RECIEVER] se trimite AKC cu numarul 38
+[RECIEVER] primit mesajul cu numarul 39
+[RECIEVER] se trimite AKC cu numarul 39
+[RECIEVER] primit mesajul cu numarul 40
+[RECIEVER] se trimite AKC cu numarul 40
+[RECIEVER] primit mesajul cu numarul 41
+[RECIEVER] se trimite AKC cu numarul 41
+[RECIEVER] primit mesajul cu numarul 42
+[RECIEVER] se trimite AKC cu numarul 42
+[RECIEVER] primit mesajul cu numarul 43
+[RECIEVER] se trimite AKC cu numarul 43
+[RECIEVER] primit mesajul cu numarul 44
+[RECIEVER] se trimite AKC cu numarul 44
+[RECIEVER] primit mesajul cu numarul 45
+[RECIEVER] se trimite AKC cu numarul 45
+[RECIEVER] primit mesajul cu numarul 46
+[RECIEVER] se trimite AKC cu numarul 46
+[RECIEVER] primit mesajul cu numarul 47
+[RECIEVER] se trimite AKC cu numarul 47
+[RECIEVER] primit mesajul cu numarul 48
+[RECIEVER] se trimite AKC cu numarul 48
+[RECIEVER] primit mesajul cu numarul 49
+[RECIEVER] se trimite AKC cu numarul 49
+[RECIEVER] primit mesajul cu numarul 50
+[RECIEVER] se trimite AKC cu numarul 50
+[RECIEVER] primit mesajul cu numarul 51
+[RECIEVER] se trimite AKC cu numarul 51
+[RECIEVER] pr[SENDER] Starting.
+[SENDER] se trimit 8 pachete in window
+[SENDER] se trimite pachetul cu numarul 1
+[SENDER] se trimite pachetul cu numarul 2
+[SENDER] se trimite pachetul cu numarul 3
+[SENDER] se trimite pachetul cu numarul 4
+[SENDER] se trimite pachetul cu numarul 5
+[SENDER] se trimite pachetul cu numarul 6
+[SENDER] se trimite pachetul cu numarul 7
+[SENDER] se trimite pachetul cu numarul 8
+[SENDER] se trimite pachetul cu numarul 9
+[SENDER] se trimite pachetul cu numarul 10
+[SENDER] se trimite pachetul cu numarul 11
+[SENDER] se trimite pachetul cu numarul 12
+[SENDER] se trimite pachetul cu numarul 13
+[SENDER] se trimite pachetul cu numarul 14
+[SENDER] se trimite pachetul cu numarul 15
+[SENDER] se trimite pachetul cu numarul 16
+[SENDER] se trimite pachetul cu numarul 17
+[SENDER] se trimite pachetul cu numarul 18
+[SENDER] se trimite pachetul cu numarul 19
+[SENDER] se trimite pachetul cu numarul 20
+[SENDER] se trimite pachetul cu numarul 21
+[SENDER] se trimite pachetul cu numarul 22
+[SENDER] se trimite pachetul cu numarul 23
+[SENDER] se trimite pachetul cu numarul 24
+[SENDER] se trimite pachetul cu numarul 25
+[SENDER] se trimite pachetul cu numarul 26
+[SENDER] se trimite pachetul cu numarul 27
+[SENDER] se trimite pachetul cu numarul 28
+[SENDER] se trimite pachetul cu numarul 29
+[SENDER] se trimite pachetul cu numarul 30
+[SENDER] se trimite pachetul cu numarul 31
+[SENDER] se trimite pachetul cu numarul 32
+[SENDER] se trimite pachetul cu numarul 33
+[SENDER] se trimite pachetul cu numarul 34
+[SENDER] se trimite pachetul cu numarul 35
+[SENDER] se trimite pachetul cu numarul 36
+[SENDER] se trimite pachetul cu numarul 37
+[SENDER] se trimite pachetul cu numarul 38
+[SENDER] se trimite pachetul cu numarul 39
+[SENDER] se trimite pachetul cu numarul 40
+[SENDER] se trimite pachetul cu numarul 41
+[SENDER] se trimite pachetul cu numarul 42
+[SENDER] se trimite pachetul cu numarul 43
+[SENDER] se trimite pachetul cu numarul 44
+[SENDER] se trimite pachetul cu numarul 45
+[SENDER] se trimite pachetul cu numarul 46
+[SENDER] se trimite pachetul cu numarul 47
+[SENDER] se trimite pachetul cu numarul 48
+[SENDER] se trimite pachetul cu numarul 49
+[SENDER] se trimite pachetul cu numarul 50
+[SENDER] se trimite pachetul cu numarul 51
+[SENDER] se trimite pachetul cu numarul 52
+[SENDER] se trimite pachetul cu numarul 53
+[SENDER] se trimite pachetul cu numarul 54
+[SENDER] se trimite pachetul cu numarul 55
+[SENDER] se trimite pachetul cu numarul 56
+[SENDER] se trimite pachetul cu numarul 57
+[SENDER] se trimite pachetul cu numarul 58
+[SENDER] se trimite pachetul cu numarul 59
+[SENDER] se trimite pachetul cu numarul 60
+[SENDER] se trimite pachetul cu numarul 61
+[SENDER] se trimite pachetul cu numarul 62
+[SENDER] se trimite pachetul cu numarul 63
+[SENDER] se trimite pachetul cu numarul 64
+[SENDER] se trimite pachetul cu numarul 65
+[SENDER] se trimite pachetul cu numarul 66
+[SENDER] se trimite pachetul cu numarul 67
+[SENDER] se trimite pachetul cu numarul 68
+[SENDER] se trimite pachetul cu numarul 69
+[SENDER] se trimite pachetul cu numarul 70
+[SENDER] se trimite pachetul cu numarul 71
+[SENDER] se trimite pachetul cu numarul 72
+[SENDER] se trimite pachetul cu numarul 73
+[SENDER] se trimite pachetul cu numarul 74
+[SENDER] se trimite pachetul cu numarul 75
+[SENDER] se trimite pachetul cu numarul 76
+[SENDER] se trimite pachetul cu numarul 77
+[SENDER] se trimite pachetul cu numarul 78
+[SENDER] se trimite pachetul cu numarul 79
+[SENDER] se trimite pachetul cu numarul 80
+[SENDER] se trimite pachetul cu numarul 81
+[SENDER] se trimite pachetul cu numarul 82
+[SENDER] se trimite pachetul cu numarul 83
+[SENDER] se trimite pachetul cu numarul 84
+[SENDER] se trimite pachetul cu numarul 85
+[SENDER] se trimite pachetul cu numarul 86
+[SENDER] se trimite pachetul cu numarul 87
+[SENDER] se trimite pachetul cu numarul 88
+[SENDER] se trimite pachetul cu numarul 89
+[SENDER] se trimite pachetul cu numarul 90
+[SENDER] se trimite pachetul cu numarul 91
+[SENDER] se trimite pachetul cu numarul 92
+[SENDER] se trimite pachetul cu numarul 93
+[SENDER] se trimite pachetul cu numarul 94
+[SENDimit mesajul cu numarul 52
+[RECIEVER] se trimite AKC cu numarul 52
+[RECIEVER] primit mesajul cu numarul 53
+[RECIEVER] se trimite AKC cu numarul 53
+[RECIEVER] primit mesajul cu numarul 54
+[RECIEVER] se trimite AKC cu numarul 54
+[RECIEVER] primit mesajul cu numarul 55
+[RECIEVER] se trimite AKC cu numarul 55
+[RECIEVER] primit mesajul cu numarul 56
+[RECIEVER] se trimite AKC cu numarul 56
+[RECIEVER] primit mesajul cu numarul 57
+[RECIEVER] se trimite AKC cu numarul 57
+[RECIEVER] primit mesajul cu numarul 58
+[RECIEVER] se trimite AKC cu numarul 58
+[RECIEVER] primit mesajul cu numarul 59
+[RECIEVER] se trimite AKC cu numarul 59
+[RECIEVER] primit mesajul cu numarul 60
+[RECIEVER] se trimite AKC cu numarul 60
+[RECIEVER] primit mesajul cu numarul 61
+[RECIEVER] se trimite AKC cu numarul 61
+[RECIEVER] primit mesajul cu numarul 62
+[RECIEVER] se trimite AKC cu numarul 62
+[RECIEVER] primit mesajul cu numarul 63
+[RECIEVER] se trimite AKC cu numarul 63
+[RECIEVER] primit mesajul cu numarul 64
+[RECIEVER] se trimite AKC cu numarul 64
+[RECIEVER] primit mesajul cu numarul 65
+[RECIEVER] se trimite AKC cu numarul 65
+[RECIEVER] primit mesajul cu numarul 66
+[RECIEVER] se trimite AKC cu numarul 66
+[RECIEVER] primit mesajul cu numarul 67
+[RECIEVER] se trimite AKC cu numarul 67
+[RECIEVER] primit mesajul cu numarul 68
+[RECIEVER] se trimite AKC cu numarul 68
+[RECIEVER] primit mesajul cu numarul 69
+[RECIEVER] se trimite AKC cu numarul 69
+[RECIEVER] primit mesajul cu numarul 70
+[RECIEVER] se trimite AKC cu numarul 70
+[RECIEVER] primit mesajul cu numarul 71
+[RECIEVER] se trimite AKC cu numarul 71
+[RECIEVER] primit mesajul cu numarul 72
+[RECIEVER] se trimite AKC cu numarul 72
+[RECIEVER] primit mesajul cu numarul 73
+[RECIEVER] se trimite AKC cu numarul 73
+[RECIEVER] primit mesajul cu numarul 74
+[RECIEVER] se trimite AKC cu numarul 74
+[RECIEVER] primit mesajul cu numarul 75
+[RECIEVER] se trimite AKC cu numarul 75
+[RECIEVER] primit mesajul cu numarul 76
+[RECIEVER] se trimite AKC cu numarul 76
+[RECIEVER] primit mesajul cu numarul 77
+[RECIEVER] se trimite AKC cu numarul 77
+[RECIEVER] primit mesajul cu numarul 78
+[RECIEVER] se trimite AKC cu numarul 78
+[RECIEVER] primit mesajul cu numarul 79
+[RECIEVER] se trimite AKC cu numarul 79
+[RECIEVER] primit mesajul cu numarul 80
+[RECIEVER] se trimite AKC cu numarul 80
+[RECIEVER] primit mesajul cu numarul 81
+[RECIEVER] se trimite AKC cu numarul 81
+[RECIEVER] primit mesajul cu numarul 82
+[RECIEVER] se trimite AKC cu numarul 82
+[RECIEVER] primit mesajul cu numarul 83
+[RECIEVER] se trimite AKC cu numarul 83
+[RECIEVER] primit mesajul cu numarul 84
+[RECIEVER] se trimite AKC cu numarul 84
+[RECIEVER] primit mesajul cu numarul 85
+[RECIEVER] se trimite AKC cu numarul 85
+[RECIEVER] primit mesajul cu numarul 86
+[RECIEVER] se trimite AKC cu numarul 86
+[RECIEVER] primit mesajul cu numarul 87
+[RECIEVER] se trimite AKC cu numarul 87
+[RECIEVER] primit mesajul cu numarul 88
+[RECIEVER] se trimite AKC cu numarul 88
+[RECIEVER] primit mesajul cu numarul 89
+[RECIEVER] se trimite AKC cu numarul 89
+[RECIEVER] primit mesajul cu numarul 90
+[RECIEVER] se trimite AKC cu numarul 90
+[RECIEVER] primit mesajul cu numarul 91
+[RECIEVER] se trimite AKC cu numarul 91
+[RECIEVER] primit mesajul cu numarul 92
+[RECIEVER] se trimite AKC cu numarul 92
+[RECIEVER] primit mesajul cu numarul 93
+[RECIEVER] se trimite AKC cu numarul 93
+[RECIEVER] primit mesajul cu numarul 94
+[RECIEVER] se trimite AKC cu numarul 94
+[RECIEVER] primit mesajul cu numarul 95
+[RECIEVER] se trimite AKC cu numarul 95
+[RECIEVER] primit mesajul cu numarul 96
+[RECIEVER] se trimite AKC cu numarul 96
+[RECIEVER] primit mesajul cu numarul 97
+[RECIEVER] se trimite AKC cu numarul 97
+[RECIEVER] primit mesajul cu numarul 98
+[RECIEVER] se trimite AKC cu numarul 98
+[RECIEVER] primit mesajul cu numarul 99
+[RECIEVER] se trimite AKC cu numarul 99
+[RECIEVER] primit mesajul cu numarul 100
+[RECIEVER] se trimite AKC cu numarul 100
+[RECEIVER] Finished receiving..
+ER] se trimite pachetul cu numarul 95
+[SENDER] se trimite pachetul cu numarul 96
+[SENDER] se trimite pachetul cu numarul 97
+[SENDER] se trimite pachetul cu numarul 98
+[SENDER] se trimite pachetul cu numarul 99
+[SENDER] se trimite pachetul cu numarul 100
+[SENDER] se trimite pachetul cu numarul 101
+[SENDER] se trimite pachetul cu numarul 102
+[SENDER] se trimite pachetul cu numarul 103
+[SENDER] se trimite pachetul cu numarul 104
+[SENDER] se trimite pachetul cu numarul 105
+[SENDER] se trimite pachetul cu numarul 106
+[SENDER] se trimite pachetul cu numarul 107
+[SENDER] se trimite pachetul cu numarul 108
+[SENDER] Job done, all sent.
